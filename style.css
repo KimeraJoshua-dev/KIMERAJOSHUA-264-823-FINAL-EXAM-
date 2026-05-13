@@ -56,7 +56,9 @@ header {
 
 .nav-links li a:hover {
     color: var(--gold);
-    .hero {
+}
+
+.hero {
     height: 175vh;
     background: url('papaafrica.jpeg') no-repeat top center/cover;
     display: flex;
@@ -152,7 +154,7 @@ tr:nth-child(even) { background: #f9f9f9; }
 }
 .contact-card { padding: 30px; background: var(--gray); border-bottom: 4px solid var(--gold); }
 .contact-card i { font-size: 2rem; color: var(--gold); margin-bottom: 15px;}
-}
+
 .main-footer {
     background-color: #111; 
     color: white;
